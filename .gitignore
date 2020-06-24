@@ -1,0 +1,3 @@
+# Project exclude paths
+/stringoperations-util/target/
+/stringoperations-view/target/
